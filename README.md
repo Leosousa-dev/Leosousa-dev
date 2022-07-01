@@ -1,6 +1,6 @@
 ### Olá Eu sou leonardo sousa 👋
 
-- 🌱 Estudando flutter/Dart
+- 🌱 Estudando React, next js, tailwind,
 - 📫 Email: leonardosousafernandes954@gmail.com
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
