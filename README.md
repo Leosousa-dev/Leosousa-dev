@@ -1,7 +1,7 @@
 ### Olá Eu sou leonardo sousa 👋
 
 - 🌱 Estudando React, next js, tailwind
-- 📫 Email: leonardosousafernandes954@gmail.com
+- 📫 Email: leonardosousa.fernandes.19@gmail.com
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
  ## Tecnologias que ultilizo no dia a dia
