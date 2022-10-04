@@ -1,12 +1,12 @@
-# Olá Eu sou leonardo sousa 👋
+# Hi i'm leonardo sousa 👋
 
-## Sobre:
-  Eu sou um desenvolvedor web 👨🏽‍💻 <br>
-  com foco no Front-end, Apaixonado por ui,ux desing<br>
-  estou constantemente em busca de conhecimentos tanto para<br>
-  aprimorar os que ja possuo quanto para aprender algo novo
+### 🧐 about me
+  i'm web developer 👨🏽‍💻 <br>
+  focused Front-end, in love for <strong>ui,ux</strong> desing<br>
 
-## Tecnologias que ultilizo no dia a dia:
+## technology I use on a daily basis
+
+
 <strong>Front-end:</strong><br>
            <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
            <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
