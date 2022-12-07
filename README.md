@@ -22,4 +22,4 @@
            <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
            <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 
-
+![Snake animation](https://github.com/ls250/ls250/blob/output/github-contribution-grid-snake.svg)
