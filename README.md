@@ -4,7 +4,7 @@
   i'm web developer 👨🏽‍💻 <br>
   focused Front-end, in love for <strong>ui,ux</strong> desing<br>
   
-  👉 my portifolio 
+  👉 my portifolio https://portfolio-ls250.vercel.app/
 
 ## technology I use on a daily basis
 
