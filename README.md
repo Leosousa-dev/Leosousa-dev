@@ -3,8 +3,13 @@ I'm a web developer<br/>
 focused on the front-end using ⚛️ React js, and I'm passionate about ui, ux design
 
   
-  🌱  i'm currently work on -personal projects<br/>
-  🔭 I'm currently learning -next js
+ **🌱  i'm currently work on**
+ * my personal projects 
+
+ **🔭 I'm currently learning**
+  * next js
+  * Docker
+
   
   🔗 my portifolio https://portfolio-ls250.vercel.app/
 
