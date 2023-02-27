@@ -1,7 +1,7 @@
 ## Hey i'm leonardo sousa 👋
 I'm a web developer<br/>
 focused on the front-end using ⚛️ React js, and I'm passionate about ui, ux design<br/>
-🔗 my portifolio https://portfolio-ls250.vercel.app/
+🔗 my portifolio: https://portfolio-next-ls250.vercel.app/
 
 
   
