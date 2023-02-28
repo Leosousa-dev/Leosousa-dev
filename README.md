@@ -25,4 +25,4 @@ focused on the front-end using ⚛️ React js, and I'm passionate about ui, ux 
 </code>
 </code>
 
-![Snake animation](https://github.com/ls250/ls250/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Leosousa-dev/Leosousa-dev/blob/output/github-contribution-grid-snake.svg)
