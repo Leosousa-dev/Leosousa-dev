@@ -1,15 +1,15 @@
-## 👋 Olá, sou Leonardo Sousa!
+# 👋 Olá, sou Leonardo Sousa!
 Sou um desenvolvedor web apaixonado pela área de **front-end**, especializado em **React.js**. Além disso, tenho um grande interesse em design de **UI/UX**. Aqui estão alguns detalhes sobre mim e meus projetos:<br>
 
 🌐 Meu Portfólio: https://portfolio-next-ls250.vercel.app/
 
 
   
-## **🌱 Projetos Pessoais em Andamento:**
+### **🌱 Projetos Pessoais em Andamento:**
  **Gradienthub:** Uma plataforma para explorar e encontra gradientes incríveis!<br>
  **🔗 Link: https://gradienthub.vercel.app/**
 
- ## **🔭 Tecnologias em Aprendizado Atualmente:**
+ ### **🔭 Tecnologias em Aprendizado Atualmente:**
   **🚀 Next.js:** Um framework de React.js para criar aplicativos web escaláveis e otimizados.<br>
   **🐳 Docker:**  Uma plataforma de contêineres que facilita a criação, implantação e execução de aplicativos.
   
