@@ -1,28 +1,13 @@
-# 👋 Olá, sou Leonardo Sousa!
-Sou um desenvolvedor web apaixonado pela área de **front-end**, especializado em **React.js**. Além disso, tenho um grande interesse em design de **UI/UX**. Aqui estão alguns detalhes sobre mim e meus projetos:<br>
+<img src="https://firebasestorage.googleapis.com/v0/b/useful-images.appspot.com/o/head.svg?alt=media&token=04565e3e-d24c-4676-ab6e-9e0d4bde78f2" alt="Texto Alternativo" height="90">
+<br>
 
-🌐 Meu Portfólio: https://portfolio-next-ls250.vercel.app/
+<strong>~ About me</strong>
 
+I enjoy delving into the inner workings of things and crafting solutions that bring value to users.<br>
+I’m fascinated by the  <img src="https://firebasestorage.googleapis.com/v0/b/useful-images.appspot.com/o/icon.svg?alt=media&token=e616619e-e9e7-467c-98f7-6522f37b8abb" with="90"> functional programming paradigm.
 
-  
-### **🌱 Projetos Pessoais em Andamento:**
- **Gradienthub:** Uma plataforma para explorar e encontra gradientes incríveis!<br>
- **🔗 Link: https://gradienthub.vercel.app/**
-
- ### **🔭 Tecnologias em Aprendizado Atualmente:**
-  **🚀 Next.js:** Um framework de React.js para criar aplicativos web escaláveis e otimizados.<br>
-  **🐳 Docker:**  Uma plataforma de contêineres que facilita a criação, implantação e execução de aplicativos.
-  
- **Languages and tools:**
- 
- 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://imgs.search.brave.com/X_ckMtkxf7SJ5vAPfCnkYy8r8YsJ7PoLxfQEZ2CWruA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzJjZGQ3ZWE1/MDMwMmMwY2FhYzli/ZGU5YTc5NWY0YjY4/NzI5MWRlNDQ2NWQz/NjgwYjAxNjQ2MjJh/NThjMWY5YS93d3cu/ZG9ja2VyLmNvbS8"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"></code>
-</code>
-</code>
+<p align="left">
+  <img src="https://firebasestorage.googleapis.com/v0/b/useful-images.appspot.com/o/active.svg?alt=media&token=46736394-7070-4e62-8b45-4418f173a810" height="10"  style="margin-right: 100px;">
+Currently studying the functional programming paradigm.
+</p>
 
