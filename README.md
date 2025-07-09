@@ -1,4 +1,5 @@
-<h1>Leonardo Sousa - Fullstack Developer</h1>
+<h1>Leonardo Sousa -<br> 
+  Fullstack Developer</h1>
 
 <strong>~ About me</strong>
 
