@@ -1,5 +1,4 @@
-<img src="https://firebasestorage.googleapis.com/v0/b/useful-images.appspot.com/o/head.svg?alt=media&token=04565e3e-d24c-4676-ab6e-9e0d4bde78f2" alt="Texto Alternativo" height="90">
-<br>
+<h1>Leonardo Sousa - Fullstack Developer</h1>
 
 <strong>~ About me</strong>
 
