@@ -3,11 +3,8 @@
 
 <strong>~ About me</strong>
 
-I enjoy delving into the inner workings of things and crafting solutions that bring value to users.<br>
-I’m fascinated by the  <img src="https://firebasestorage.googleapis.com/v0/b/useful-images.appspot.com/o/icon.svg?alt=media&token=e616619e-e9e7-467c-98f7-6522f37b8abb" with="90"> functional programming paradigm.
+Autodidata, apaixonado por paradigmas funcionais, baixo nível e matemática moderna.
 
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/useful-images.appspot.com/o/active.svg?alt=media&token=46736394-7070-4e62-8b45-4418f173a810" height="10"  style="margin-right: 100px;">
-Currently studying the functional programming paradigm.
-</p>
+Cada repositório aqui é um experimento intencional para aprender e praticar algo novo — seja uma linguagem, uma ideia ou uma tecnologia.
 
+Sempre estudando, sempre construindo.
